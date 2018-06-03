@@ -1,5 +1,5 @@
 // Define your secret project token here
-def project_token = 'abf102fa7f081d4b9727a8c52b88c2ce'
+def project_token = '4dabcb26366841c22e5b5baf22e78d12'
 
 properties([
   [$class: 'GitLabConnectionProperty', gitLabConnection: 'gitlab'],
